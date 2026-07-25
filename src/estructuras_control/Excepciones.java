@@ -4,7 +4,7 @@ import java.io.FileReader;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-public class Exepciones {
+public class Excepciones {
 
     // =========================================================================
     // Métodos de Apoyo: Permiten dar soporte real a tus ejemplos de estudio

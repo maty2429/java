@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-public class Coleccione {
+public class Colecciones {
     public static void main(String[] args) {
         // -------------------------------------------------------------------------
         // DEMO EJECUTABLE

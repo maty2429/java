@@ -6,7 +6,7 @@ package poo;
  * CONCEPTOS CLAVE:
  * 1. CLASE: Es el molde o plano (ej: El plano de una casa).
  * 2. OBJETO: Es lo real creado con el molde (ej: La casa construida).
- * 3. MODO: Son las funciones que puede hacer ese objeto.
+ * 3. MÉTODO: Son las funciones que puede hacer ese objeto.
  */
 public class Metodos {
 

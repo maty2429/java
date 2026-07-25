@@ -141,7 +141,7 @@ public class Records {
         // 
         // producto.nombre();      // estilo Record - sin get
         // 
-        // Esto es una convecnión del lenguaje. Los Records no usan el prefijo get. El método accessor lleva el mismo
+        // Esto es una convención del lenguaje. Los Records no usan el prefijo get. El método accessor lleva el mismo
         // nombre que el componente.
         // Esto al principio confunde a desarrolladores que vienen de POJOs tradicionales, pero es muy
         // intencional. Los Records representan datos puros, no objetos con comportamiento, por eso no se les llama
@@ -633,7 +633,7 @@ public class Records {
         // Records con sealed interfaces.
 
         // =========================================================================
-        // Parte 14 — Records anizados
+        // Parte 14 — Records anidados
         // =========================================================================
         // Puedes declarar Records dentro de otras clases, interfaces, o incluso dentro de métodos. Son
         // static implícitamente cuando están dentro de una clase:
@@ -980,7 +980,7 @@ public class Records {
         // ✅ Métodos adicionales permitidos
         // ✅ Records implementando interfaces
         // ✅ Limitaciones de herencia
-        // ✅ Records anizados
+        // ✅ Records anidados
         // ✅ Integración con Jackson en Spring Boot
         // ✅ Cuándo usar Records vs clases tradicionales
         // ✅ Ejemplo realista en contexto Spring Boot
